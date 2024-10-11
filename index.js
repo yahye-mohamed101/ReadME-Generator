@@ -77,7 +77,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((answers) => {
         const readmeContent = generateReadMe(answers);
-        fs.writeFile('README.md', readmeContent)
+        writeToFile('dist/README.md', readmeContent);
 
     })
 }
