@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 import inquirer from 'inquirer';
 import fs from 'fs';
+import generateMarkdown from './utils/generateMarkdown.js';
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -49,16 +50,30 @@ const questions = [
         type: "input",
         message: "Provide tests.",
         name: "testing"
+    }, 
+    
+    {
+        type: "input",
+        message: "Provide your GitHub username: ",
+        name: "github"
+    },
+    
+    {
+        type: "input",
+        message: "Provide your email address",
+        name: "email"
     },
 
     {
         type: "input",
-        message: "Questions?",
+        message: "Any additional questions?",
         name: "questions"
     },
 
 
 ];
+
+
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
@@ -73,11 +88,12 @@ function writeToFile(fileName, data) {
     })
  }
 
+
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions).then((answers) => {
-        const readmeContent = generateReadMe(answers);
-        writeToFile('dist/README.md', readmeContent);
+        const readmeContent = generateMarkdown(answers);
+        writeToFile('dist/README.md', readmeContent );
 
     })
 }
