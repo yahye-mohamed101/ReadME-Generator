@@ -13,7 +13,7 @@ from scratch.
 - [Installation](#installation)
 - [Usage](#installation)
 - [License](#license)
-- [Tests](#tests)
+
 
   ## Installation
   - First, clone the repository.
@@ -34,21 +34,25 @@ from scratch.
   ## Features
   -After installing, open the integrated terminal in your VS Code.
  
-   ![node snip 1](assets/image/node snip 1.PNG)
+   ![node snip 1](https://github.com/user-attachments/assets/fb122a0d-fadf-4166-bd0d-2324b6fe8d0f)
+
   
   - Node index command to run the application.
     
-    ![node snip 2](assets/images/node snip 2.PNG)
+    ![node snip 2](https://github.com/user-attachments/assets/ede21f11-5110-439f-a201-859fbf7cbb26)
+
 
    
   - Answer the prompts to get the ReadME file made.
     
-    ![node snip 3](assets/images/node snip 3.PNG)
+   ![node snip 3](https://github.com/user-attachments/assets/795cb23d-78a9-41da-82dd-a3b7dcb092c6)
+
 
    
   -The ReadME file should be created now!
  
-   ![node snip 4](assets/images/node snip 4.PNG)
+   ![node snip 4](https://github.com/user-attachments/assets/14211a9a-2914-4485-85d8-e46145f14395)
+
 
   
 
