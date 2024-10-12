@@ -1,9 +1,9 @@
 
-  # lk
-  [License](https://img.shields.io/badge/license-lk-blue.svg)
+  # s
+  ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
-  lk
+  s
 
   ## Table of Contents
   - [Description](#description)
@@ -16,26 +16,26 @@
  
 
   ## Installation
-  lk
+  s
 
   ## Usage
-  lk
+  s
 
   
 ## License
-This project is licensed under the [lk]() license.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 
   ## Contributing
-  l
+  s
 
   ## Tests
-  k
+  s
 
   ## Questions
   If you have any questions, you can reach out to me via:
-  - GitHub: [k](https://github.com/k)
-  - Email: [k](mailto:k)
+  - GitHub: [s](https://github.com/s)
+  - Email: [s](mailto:s)
 
-  k
+  s
 
