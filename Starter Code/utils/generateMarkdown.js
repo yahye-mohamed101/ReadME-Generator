@@ -19,20 +19,20 @@ function renderLicenseLink(license) {
   switch (license) {
       case 'MIT':
           return 'https://opensource.org/licenses/MIT';
-          break;
+          
       case 'GPLv3':
           return 'https://www.gnu.org/licenses/gpl-3.0';
-          break;
+          
       case 'Apache 2.0':
           return 'https://opensource.org/licenses/Apache-2.0';
-          break;
+          
       case 'BSD 3-Clause':
           return 'https://opensource.org/licenses/BSD-3-Clause';
-          break;
+          
       default:
           return '';
-  }
-  }
+  };
+  };
 
 
 // TODO: Create a function that returns the license section of README
@@ -57,7 +57,14 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Table of Contents
-  ${data.contents}
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+ 
 
   ## Installation
   ${data.installation}
@@ -77,7 +84,7 @@ function generateMarkdown(data) {
   If you have any questions, you can reach out to me via:
   - GitHub: [${data.github}](https://github.com/${data.github})
   - Email: [${data.email}](mailto:${data.email})
-  
+
   ${data.questions}
 
 `;

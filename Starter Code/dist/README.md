@@ -6,7 +6,14 @@
   By answering multiple different prompts, you will be able to generate a ReadME file for your project.
 
   ## Table of Contents
-  Description, Installation, Usage, Contributing, and Tests
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+ 
 
   ## Installation
   First clone the repository, cd into the directory, and run the "code ." command to enter VS Code.
@@ -23,12 +30,12 @@ This project is licensed under the [MIT License]() license.
   Yahye Mohamed
 
   ## Tests
-  Testing
+  Tests
 
   ## Questions
   If you have any questions, you can reach out to me via:
   - GitHub: [yahye-mohamed101](https://github.com/yahye-mohamed101)
   - Email: [yahyemohamed2002@gmail.com](mailto:yahyemohamed2002@gmail.com)
-  
+
   No
 
