@@ -34,21 +34,21 @@ from scratch.
   ## Features
   -After installing, open the integrated terminal in your VS Code.
   ```md
-   ![node snip 1](https://github.com/user-attachments/assets/1a466964-0d76-4b2c-8187-ebc1ac1a0bc8)
+   ![node snip 1](assets/image/node snip 1.PNG)
   ```
   - Node index command to run the application.
     ```md
-    ![node snip 2](https://github.com/user-attachments/assets/a0fb4257-a7cc-402d-a06d-128df7bf5eb5)
+    ![node snip 2](assets/images/node snip 2.PNG)
 
     ```
   - Answer the prompts to get the ReadME file made.
     ```md
-    ![node snip 3](https://github.com/user-attachments/assets/f5f36547-1cbe-4ded-b08a-b956cd385ae8)
+    ![node snip 3](assets/images/node snip 3.PNG)
 
     ```
   -The ReadME file should be created now!
   ```md
-   ![node snip 4](https://github.com/user-attachments/assets/330a31e3-d5b3-4c88-8628-26ebd777a421)
+   ![node snip 4](assets/images/node snip 4.PNG)
 
     ```
 
