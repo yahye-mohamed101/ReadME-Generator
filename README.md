@@ -22,7 +22,8 @@ from scratch.
  
 
   ## Usage
-  -
+  - [Walkthrough of ReadME Generator.webm](https://github.com/user-attachments/assets/c0fcee5a-286e-49ce-a5c5-a0f5b84006c1)
+
 
   ## Credits
   - Starter code provided from University of Minnesota BootCamp.
