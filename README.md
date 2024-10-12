@@ -33,24 +33,24 @@ from scratch.
  
   ## Features
   -After installing, open the integrated terminal in your VS Code.
-  ```md
+ 
    ![node snip 1](assets/image/node snip 1.PNG)
-  ```
+  
   - Node index command to run the application.
-    ```md
+    
     ![node snip 2](assets/images/node snip 2.PNG)
 
-    ```
+   
   - Answer the prompts to get the ReadME file made.
-    ```md
+    
     ![node snip 3](assets/images/node snip 3.PNG)
 
-    ```
+   
   -The ReadME file should be created now!
-  ```md
+ 
    ![node snip 4](assets/images/node snip 4.PNG)
 
-    ```
+  
 
   ## How to Contribute
   - Create a new branch:
