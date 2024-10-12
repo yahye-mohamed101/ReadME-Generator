@@ -1,9 +1,9 @@
 
-  # ReadME Generator
-  ![License](https://img.shields.io/badge/license-MIT License-blue.svg)
+  # lk
+  [License](https://img.shields.io/badge/license-lk-blue.svg)
 
   ## Description
-  By answering multiple different prompts, you will be able to generate a ReadME file for your project.
+  lk
 
   ## Table of Contents
   - [Description](#description)
@@ -16,26 +16,26 @@
  
 
   ## Installation
-  First clone the repository, cd into the directory, and run the "code ." command to enter VS Code.
+  lk
 
   ## Usage
-  To quickly and easily generate a ReadME file.
+  lk
 
   
 ## License
-This project is licensed under the [MIT License]() license.
+This project is licensed under the [lk]() license.
 
 
   ## Contributing
-  Yahye Mohamed
+  l
 
   ## Tests
-  Tests
+  k
 
   ## Questions
   If you have any questions, you can reach out to me via:
-  - GitHub: [yahye-mohamed101](https://github.com/yahye-mohamed101)
-  - Email: [yahyemohamed2002@gmail.com](mailto:yahyemohamed2002@gmail.com)
+  - GitHub: [k](https://github.com/k)
+  - Email: [k](mailto:k)
 
-  No
+  k
 
