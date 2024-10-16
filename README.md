@@ -22,7 +22,7 @@ from scratch.
  
 
   ## Usage
-  - [Walkthrough of ReadME Generator.webm](https://github.com/user-attachments/assets/c0fcee5a-286e-49ce-a5c5-a0f5b84006c1)
+  - [Walkthrough of ReadME Generator](https://drive.google.com/file/d/1BsfO-86Fs6B_3v53zL7sEPjw2M7x0GMf/view?usp=sharing)
 
 
   ## Credits
